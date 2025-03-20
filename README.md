@@ -4,9 +4,7 @@
 
 <h2 align="left">"Full Stack Developer | Continuously Learning, Building, and Evolving Code"</h2>
 
-###
 
-<img src="https://raw.githubusercontent.com/tusharanad2301/tusharanad2301/output/snake.svg" alt="Snake animation" />
 
 ###
 
